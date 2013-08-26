@@ -22,7 +22,8 @@
         "yuglify": "~0.1.0",
         "timethat": "~0.0.1",
         "cssproc": "~0.0.1",
-        "walkdir": "~0.0.5"
+        "walkdir": "~0.0.5",
+        "hashsome": "~0.0.1"
     },
     "devDependencies": {
         "selleck": "*",
