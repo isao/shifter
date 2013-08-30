@@ -9,4 +9,6 @@ http://yuilibrary.com/license/
 var path = require('path');
 var shifter = require(path.join('../lib'));
 
-shifter.init();
+shifter.init(undefined, function(err) {
+	process.exit(err ? 1 : 0); // exit to support invocation by fork()
+});
