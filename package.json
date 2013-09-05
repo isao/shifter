@@ -23,7 +23,7 @@
         "timethat": "~0.0.1",
         "cssproc": "~0.0.1",
         "walkdir": "~0.0.5",
-        "hashsome": "~0.0.1"
+        "hashsome": "~0.1.0"
     },
     "devDependencies": {
         "selleck": "*",
